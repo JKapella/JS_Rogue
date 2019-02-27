@@ -46,7 +46,8 @@ var Game = {
 
         initialiseConsole();
 
-        document.body.appendChild(this.display.getContainer());
+        var list = document.getElementsByTagName("main");
+        list[0].appendChild(this.display.getContainer());
         this._generateMap();
 
         this.player = this._createPlayer();
