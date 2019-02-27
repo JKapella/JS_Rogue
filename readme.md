@@ -33,7 +33,17 @@ If you do die and want to play again, refresh the page.
 
 ## Roadmap
 
-Coming soon...
+* HTML/CSS instructions on the game page
+* Review the game colour scheme
+* More enemies, getting progressiely stronger, allowing for scaling of the player's abilities
+* Loot! - weapons and armour, procedurally generated and placed in the dungeon to pick up
+* interesting features in the rooms, columns, gravestones, water, moss, etc
+* An intro screen - might make this with a little proc gen story
+* A way to win! This will likely be an item or small collection of items to find, maybe with a boss?
+
+Might do...
+
+* Responsive canvas for different browser sizes
 
 ## Thanks and other thoughts
 
