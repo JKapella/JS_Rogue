@@ -3,6 +3,7 @@
 body {
 	background-color: black;
 	font-family: monospace;
+    color: #FFFFFF;
 }
 
 canvas {
@@ -10,4 +11,13 @@ canvas {
     margin: 0 auto;
     display: block;
     border: 25px solid grey;
+}
+
+main {
+    width: 1350px;
+    margin: 0 auto;
+}
+
+h1  {
+    font-weight: normal;
 }
