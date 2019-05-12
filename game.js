@@ -1,4 +1,4 @@
-//TODO - currently the LOS stuff works of spacefree, not off anythign to do with Line of
+//TODO - currently the LOS stuff works of spacefree, not off anything to do with Line of
 //sight - 
 
 var Game = {
